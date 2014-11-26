@@ -1,0 +1,12 @@
+/*~
+/*/*~
+target/
+/*/target/
+.idea
+*.ipr
+*.iml
+*.iws
+/*/*.ipr
+/*/*.iws
+/*/*.iml
+/*/.idea
