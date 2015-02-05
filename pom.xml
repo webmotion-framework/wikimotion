@@ -28,7 +28,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.debux.webmotion</groupId>
     <artifactId>wikimotion</artifactId>
-    <version>2.4.1-SNAPSHOT</version>
+    <version>2.5</version>
   
     <packaging>war</packaging>
     <name>WebMotion wiki</name>
